@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Roshan Aryal</h1>
+
 <h3 align="center">"Frontend sorcerer weaving digital dreams with HTML, CSS, and JavaScript incantations."</h3>
 
 <h3 align="left">Connect with me:</h3>
