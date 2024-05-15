@@ -12,7 +12,7 @@
 <table>
     <tr>
         <td align="center"><a href="https://github.com/Roshan484#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=Roshan484&show_icons=true" alt="My GitHub Stats"/></a><a href="https://github.com/Roshan484#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=Roshan484&show_icons=true&theme=tokyonight" alt="My GitHub Stats"/></a></td>
-        <td rowspan="2" align="center"><a href="https://github.com/dkc1549#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roshan484&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/Roshan484#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roshan484&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+        <td rowspan="2" align="center"><a href="https://github.com/Roshan484#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roshan484&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/Roshan484#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roshan484&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
     </tr>
     <tr>
         <td align="center"><a href="https://github.com/Roshan484#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Roshan484&theme=default"/></a><a href="https://github.com/Roshan484#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Roshan484&theme=tokyonight"/></a></td>
